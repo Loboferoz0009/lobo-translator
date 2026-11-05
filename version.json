@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "fecha": "05/11/2026",
+  "notas": [
+    "Avisos automáticos de nuevas versiones.",
+    "Opciones con condiciones (MPP_ChoiceEX) ya no se dañan al traducir.",
+    "Saltos de línea medidos con la fuente real del juego."
+  ],
+  "descarga": "https://patreon.com/TraduccionesLOBOFEROZ?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+}
